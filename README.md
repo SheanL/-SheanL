@@ -16,6 +16,17 @@ Applied Computer Science student at HOGENT focused on building clear, practical 
 - Responsive and accessible interfaces
 - Practical software with clear user value
 
+## Skills
+
+| Area | Technologies |
+|---|---|
+| Languages | C#, Java, Python, JavaScript, TypeScript |
+| Frontend | React, Astro, HTML, CSS |
+| Backend | .NET, Spring Boot, Node.js |
+| Databases | SQL, MySQL, MongoDB |
+| Tools | Git, GitHub, Docker |
+| Testing | Cypress, JUnit, Mockito |
+
 ## Featured work
 
 - **The Cognitive Assistant** — a local AI assistant for working with course material.
